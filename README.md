@@ -6,7 +6,7 @@ This is simple project of advanced filtering in ecommerce using react-typescript
 
 ### Prerequisites
 
-- Node.js >= 18.x
+- Node.js = 22.x
 - npm or yarn
 
 ### Setup
