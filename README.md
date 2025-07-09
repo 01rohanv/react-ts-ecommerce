@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This is simple project of advanced filtering in commerce using react-typescript with vite.
+This is simple project of advanced filtering in ecommerce using react-typescript with vite.
 
 ## 🚀 Project Setup Instructions
 
